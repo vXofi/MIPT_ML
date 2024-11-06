@@ -1,2 +1,2 @@
 # MIPT_ML
-homeworks form mipt machine learning (2 semester) course
+homeworks from mipt machine learning (2 semester) course
